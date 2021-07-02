@@ -17,3 +17,6 @@ Os objetivos desse projeto são:
 -  Crie templates com mais eficiência e simplicidade.
 -  Diga para os elementos onde eles devem se posicionar. 
 -  Diga para os elementos onde eles devem começar e terminar
+
+## Prototipo
+![alt text](https://github.com/MathSena/projeto-grid/blob/main/assets/img/Prototipo.png)
